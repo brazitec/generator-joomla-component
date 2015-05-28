@@ -1,4 +1,4 @@
-# generator-joomla-component [![Build Status](https://secure.travis-ci.org/srsgores/generator-joomla-component.png?branch=master)](https://travis-ci.org/srsgores/generator-joomla-component)
+# generator-joomla-component [![Build Status](https://secure.travis-ci.org/brazitec/generator-joomla-component.png?branch=master)](https://travis-ci.org/srsgores/generator-joomla-component)
 
 A component generator for [Yeoman](http://yeoman.io).
 
