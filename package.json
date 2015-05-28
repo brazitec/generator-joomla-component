@@ -5,17 +5,17 @@
 	"keywords": [
 		"yeoman-generator"
 	],
-	"homepage": "https://github.com/srsgores/generator-joomla-component",
-	"bugs": "https://github.com/srsgores/generator-joomla-component/issues",
+	"homepage": "https://github.com/brazitec/generator-joomla-component",
+	"bugs": "https://github.com/brazitec/generator-joomla-component/issues",
 	"author": {
 		"name": "Sean Goresht",
-		"email": "seangores@gmail.com",
-		"url": "https://github.com/srsgores"
+		"email": "admin@brazitec.com",
+		"url": "https://github.com/brazitec"
 	},
 	"main": "app/index.js",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/srsgores/generator-joomla-component.git"
+		"url": "git://github.com/brazitec/generator-joomla-component.git"
 	},
 	"scripts": {
 		"test": "mocha"
