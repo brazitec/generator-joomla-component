@@ -1,7 +1,7 @@
 # generator-joomla-component [![Build Status](https://secure.travis-ci.org/brazitec/generator-joomla-component.png?branch=master)](https://travis-ci.org/srsgores/generator-joomla-component)
 
 A component generator for [Yeoman](http://yeoman.io).
-
+Forked to add site gen and also directory structure for Joomla 3.4
 ## What It Does (Better)
 Using this generator, you can quickly and effortlessly *scaffold* out a new [joomla](http://joomla.org) component, using recommended MVC design pattern and coding standards.  These include:
 
